@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1051040708845",
+    "firebase_url": "https://jjc-node.firebaseio.com",
+    "project_id": "jjc-node",
+    "storage_bucket": "jjc-node.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051040708845:android:cd147df305e4c3f0",
+        "android_client_info": {
+          "package_name": "com.jjc.vinit.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051040708845-knfi640afh1486nok12urf4mfdmfdhtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByENaDLqTDvgSdPzDTx2_Zbbl1jxGwjJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

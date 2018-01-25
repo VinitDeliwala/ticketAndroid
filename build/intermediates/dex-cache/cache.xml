@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/d16bb8f0910365eef87c28260c1b945798edf742/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0335e68c8dd8fc16d8315a0c0818af8aa78132b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/598bdc581ca678309a416785e9b45092aebd68dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79ccb2a4ed9e513aa2afb59f45a01956f9d15546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/fe16d05ce8c009244bac7a6c02b9e9f894abedc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ab22c7c2d7a57770dd5f389f58a40167803e657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/f08df3f70569a01a418de481851276babd514a34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e10996f0ac34e8b69846fec2ba7a1ecd945c79e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/75964e1b4ba433702d86d984109572f56ca6c287/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_191d69eaa4e6f29a2b900ac53f8ed0932e64c92e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/75d79e41785a000d2a7b204896b3f053cf3680b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ead544a497678dbc219ec8a095d931ba943f6694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/82c1060f5ecaa7ca88ed260f8aa52014e9424f2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25fbeb2a7a5762f371a909c8c083c8357897b26c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/cf43ac50fb2674e24d939377bdf565cf9f3c96b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_078a6f98c185608d74d6099c445d2ed1278a3ec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/01d9960a4cb55d03a343627491fc8d2f08af9cb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04f0569606e6d0f1ab9ca7d45bdef3df958a06d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/5a5a6511fe2cc8355def8f28505a3870c2d3f4b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd300ce21aab80dd88373e47978d2cdf945e0308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/db896d05cf546fcc1c7b3bed60e22524abc08705/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffe16917dce7feecaad6d9eacd766197f22e5cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5c12e85fd326e6b8a93e0b1819c39a4cc0bcd2e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_138a079ce9e74dfd5204db672acb4cd38a4336e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/6498d8c1f1c8e75e40a56ff3760147164515e12c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8fa5f0061ce975ae5613d1ad5b22215b3050563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/cad9f6911309e396142e7c44fc2625cd061dfff1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43bdc4e7101c5e050fb5ca0f99a07d8c3c93aaf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/8ca0419de6ef97cb31a7a145e4780b2a7b5d21a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de5a2a0a999548e6a85b3bcd519d73119196f463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/cf0ec0af13e7917644d08a92c6f54ca933e63854/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c863f92f2c75211da7d3408d34c269faf9cf569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/56dcf56bb25186ecdf0115641a365d0f994bb8f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc9d670efd97034eb831cb627749b77c05b56c25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/e6739b907b7f93f5e57dacc360c5cc289216ffa2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f626a514168d112a900ab61131eb798f052dba59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7611514433393e89432fd5f2b31da7a5b8efda91">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9271adff7f8c3bd7698569e99fe02b1a288df3d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/ffa664fc97edf359b01af3a2539c0847cb54ed69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5953dae6d89957709f3e2689392b8c3f7e770ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7b56f14120c6b812fcfb44c4541d2a67e0c2ba9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/1f82ddfd7df8a770b30dc97f65d85a5b2f819787/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc7f1f10ea2a775d5099c92dda0ddf2ca521af8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_3b18f75c27f7feb7ba6f88a4ecb37f0ce322c34c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/094ee38825cb65b1ac43393e5a1606bd6534d2f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_539df234fbc7710a724ca8820a3e7a052ed76e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_02d9cf259771d52a93027ac4f90779ce8a773479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinit/.android/build-cache/4864dfd7ea213c89aa7fdc81cda3ae873e40e5a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/vinit/IBM/JJCApp/androidPushNotification/PushNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_780d0a2384e5e69837f57850496f9f1e9aec91b5/classes.dex" />
+    </item>
+
+</items>
